@@ -16,11 +16,17 @@
   },
   "dependencies": {
     "axios": "^1.4.0",
+    "babel-plugin-styled-components": "^2.1.4",
+    "bootstrap": "^5.3.1",
     "date-fns": "^2.30.0",
     "date-fns-tz": "^2.0.0",
     "gatsby": "^5.11.0",
+    "gatsby-plugin-styled-components": "^6.11.0",
     "lodash": "^4.17.21",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-bootstrap": "^2.8.0",
+    "react-dom": "^18.2.0",
+    "react-select": "^5.7.4",
+    "styled-components": "^5.3.11"
   }
 }
